@@ -34,17 +34,17 @@
         "testResultsProcessor": "./node_modules/jest-junit-reporter"
     },
     "dependencies": {
-        "@expo/vector-icons": "5.2.0",
+        "@expo/vector-icons": "10.0.0",
         "color": "1.0.3",
-        "expo": "21.0.0",
+        "expo": "39.0.1",
         "jest-junit-reporter": "^1.1.0",
         "lodash": "^4.17.4",
         "mobx": "^3.1.9",
         "mobx-react": "^4.1.8",
         "moment": "^2.18.1",
-        "native-base": "2.3.1",
+        "native-base": "2.13.6",
         "react": "16.0.0-alpha.12",
-        "react-native": "0.48.4",
+        "react-native": "0.60.0",
         "react-native-card-carousel": "git+https://github.com/wcandillon/react-native-card-carousel#6dc8048",
         "react-navigation": "1.0.0-beta.11"
     }
