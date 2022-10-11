@@ -12,7 +12,7 @@
         "exp": "40.0.2",
         "flow-bin": "^0.49.1",
         "jest-expo": "~20.0.0",
-        "react-native-scripts": "1.5.0",
+        "react-native-scripts": "2.0.1",
         "react-test-renderer": "16.0.0-alpha.12"
     },
     "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
@@ -44,7 +44,7 @@
         "moment": "^2.18.1",
         "native-base": "2.3.1",
         "react": "16.0.0-alpha.12",
-        "react-native": "0.48.4",
+        "react-native": "0.70.2",
         "react-native-card-carousel": "git+https://github.com/wcandillon/react-native-card-carousel#6dc8048",
         "react-navigation": "1.0.0-beta.11"
     }
