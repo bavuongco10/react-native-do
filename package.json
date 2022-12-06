@@ -44,7 +44,7 @@
         "moment": "^2.18.1",
         "native-base": "2.3.1",
         "react": "16.0.0-alpha.12",
-        "react-native": "0.48.4",
+        "react-native": "0.70.6",
         "react-native-card-carousel": "git+https://github.com/wcandillon/react-native-card-carousel#6dc8048",
         "react-navigation": "1.0.0-beta.11"
     }
